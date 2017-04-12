@@ -1,0 +1,35 @@
+color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  brandStrength: 0.9031800085213035
+  lightness: 0.1380863063968718
+  saturation: 0.7728670898359269
+  rhythmicContrast: 0.661703301128
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: PrettyNeatIdeas.net
+layout_spectrum: 0.8717725414317101
+typography_spectrum: 0.08728453773073852
+content: []
+title: Pretty Neat Ideas
+description: From Artsy to Yummy
+purpose:
+  - type: contact
+    url: 'tel:3162146282'
+    label: Call 3162146282
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/654b4de5-eb54-4738-b11b-4498cc89f592.png
+author:
+  name: Deborah Eilert
+  email: DebsKeepsake@gmail.com
+  url: 'http://PrettyNeatIdeas.net'
