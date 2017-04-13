@@ -30,6 +30,9 @@ navigation:
   - name: Hot Seats
     id: 797bea87-798a-4495-8b78-4da8a4a07a27
     type: content
+  - name: Deserts
+    id: 7fdf1451-e98d-470c-95b8-8bb024530a03
+    type: content
 title: Pretty Neat Ideas
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
