@@ -1,3 +1,4 @@
+typography_spectrum: 0.08728453773073852
 color:
   brandColors:
     - '#25064D'
@@ -9,6 +10,15 @@ color:
   lightness: 0.1380863063968718
   saturation: 0.7728670898359269
   rhythmicContrast: 0.661703301128
+github: true
+layout_spectrum: 0.8717725414317101
+author:
+  name: Deborah Eilert
+  email: DebsKeepsake@gmail.com
+  url: 'http://PrettyNeatIdeas.net'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/654b4de5-eb54-4738-b11b-4498cc89f592.png
+name: PrettyNeatIdeas.net
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,9 +26,11 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: PrettyNeatIdeas.net
-layout_spectrum: 0.8717725414317101
-typography_spectrum: 0.08728453773073852
+navigation:
+  - name: Hot Seats
+    id: 797bea87-798a-4495-8b78-4da8a4a07a27
+    type: content
+title: Pretty Neat Ideas
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,32 +40,24 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/45cf835b-021a-4563-b35a-acfe3963c412.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Pretty Neat Ideas
 description: From Artsy to Yummy
 purpose:
   - type: contact
     url: 'tel:3162146282'
     label: Call 3162146282
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/654b4de5-eb54-4738-b11b-4498cc89f592.png
-author:
-  name: Deborah Eilert
-  email: DebsKeepsake@gmail.com
-  url: 'http://PrettyNeatIdeas.net'
