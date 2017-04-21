@@ -33,6 +33,9 @@ navigation:
   - name: Deserts
     id: 7fdf1451-e98d-470c-95b8-8bb024530a03
     type: content
+  - name: Furniture Refinishing
+    id: 6e866d28-56d6-4fa1-87e7-e3a9568cc5f0
+    type: content
 title: Pretty Neat Ideas
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
